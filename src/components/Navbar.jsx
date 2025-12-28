@@ -75,7 +75,7 @@ export default function Navbar() {
         {/* Contact button */}
         <button className="inline-flex text-white border-2 py-2 px-6 focus:outline-none hover:bg-purple-800 rounded-full text-lg">
           Contact
-        </button>z
+        </button>
       </div>
     </header>
   );
