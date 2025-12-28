@@ -2,7 +2,7 @@ import React from "react";
 import Project1 from "../assets/Project1.png";
 import Project2 from "../assets/Project2.png";
 import Project3 from "../assets/Project3.png";
-import Website from "../assets/web.png";
+import Website from "../assets/Web.png";
 import Wordpress1 from "../assets/SMP_BL.png";
 import Wordpress2 from "../assets/SD_TIMOHO.png";
 
