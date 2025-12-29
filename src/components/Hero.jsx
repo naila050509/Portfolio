@@ -5,7 +5,7 @@ import github from "../assets/github.png";
 import linkedin from "../assets/linkedin.png";
 import facebook from "../assets/facebook.png";
 import instagram from "../assets/instagram.png";
-import Naila from "../assets/CV_Kreatif.pdf";
+import Naila from "../assets/CV - Naila Aribah Zahra.pdf";
 
 export default function Hero() {
   return (
